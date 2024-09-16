@@ -1,7 +1,5 @@
 # PA3
 Python Data Manipulation Assignment - Pandas
-## Author:
-@BruceGonzalvo-2ECEA-2023184773
 ## Overview
 This repository contains Python scripts for manipulating data using the pandas library in Jupyter Notebook. The tasks are designed to demonstrate proficiency in loading, subsetting, slicing, and indexing data operations.
 
@@ -22,3 +20,5 @@ Task 2a: Display the first five rows with odd-numbered columns (1, 3, 5, 7…) o
 Task 2b: Find and display the row that contains the model ‘Mazda RX4’.
 
 Task 2c: Determine the number of cylinders (cyl) for the car model ‘Camaro Z28’.
+## Author:
+@BruceGonzalvo-2ECEA-2023184773

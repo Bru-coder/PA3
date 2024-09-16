@@ -1,7 +1,7 @@
 # PA3
 Python Data Manipulation Assignment - Pandas
 ## Author:
-@Bruce Gonzalvo-2ECEA- 2023184773
+@BruceGonzalvo-2ECEA-2023184773
 ## Overview
 This repository contains Python scripts for manipulating data using the pandas library in Jupyter Notebook. The tasks are designed to demonstrate proficiency in loading, subsetting, slicing, and indexing data operations.
 

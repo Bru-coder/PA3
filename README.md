@@ -1,9 +1,9 @@
 # PA3
 Python Data Manipulation Assignment - Pandas
-Overview
+## Overview
 This repository contains Python scripts for manipulating data using the pandas library in Jupyter Notebook. The tasks are designed to demonstrate proficiency in loading, subsetting, slicing, and indexing data operations.
 
-Data Source
+## Data Source
 Download the dataset required for the assignment from this link and save it to your default user folder.
 
 # Problem 1: Basic Data Loading and Display
